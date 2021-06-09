@@ -28,12 +28,13 @@ auquel cas une feuille avec cette valeur de classe est retournée.
 feuille est retournée avec la classe majoritaire parmi les exemples associés au nœud courant.
 
 
-## Installation 
+## Installation & Environnement
 Telecharger le dossier depuis github:<br>
 $ git clone https://github.com/RICHARD-90/From_Id3_to_C4.5.git <br>
-Il n'y a pas de contrainte concernant l'environnement de programation.
-
+Il n'y a pas de contrainte concernant l'environnement de programation.<br>
+Ce programme est ecrit selon les normes [peip8](https://pep8.org/).
 ## Resultat
 
 ![image](https://user-images.githubusercontent.com/72502866/121279364-bd54b800-c8d4-11eb-996e-8d7543f1ff38.png)
 ![image](https://user-images.githubusercontent.com/72502866/121279404-cba2d400-c8d4-11eb-8085-c9480c536b1e.png)
+
