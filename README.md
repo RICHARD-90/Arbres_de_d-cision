@@ -4,6 +4,9 @@
 
 L’objectif du projet est de comprendre et d’implémenter l’algorithme Id3 puis de l’enrichir à travers 
 différentes extensions proposées dans l’algorithme C4.5.
+* Apprentissage : l'algorithme lit le dataset puis realise le graphe
+* prediction : l'agorithme utilise le graphe realiser pendant la phase de prediction pour predire des valeurs
+* c4.5 : amelioration de l'ID3
 
 ## Explication de l'algorithme
 
